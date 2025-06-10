@@ -13,14 +13,4 @@ An interactive Streamlit application that visualizes and predicts customer churn
 
 ---
 
-## 📂 Project Structure
-
-customer-churn-dashboard/
-│
-├── churn.csv # Dataset (from Kaggle)
-├── churn_app.py # Streamlit app
-├── train_model.py # Model training script
-├── churn_model.pkl # Trained model (generated)
-└── README.md # Project documentation
-
 streamlit run churn_app.py
